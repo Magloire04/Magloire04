@@ -15,13 +15,12 @@
 
 ## À propos
 
-Je suis développeur full stack à Porto-Novo. Je travaille surtout avec Laravel et Nuxt 3, et je me suis spécialisé dans ce qui touche à la confiance numérique : infrastructures à clés publiques, signatures ECDSA, HSM via PKCS#11, Verifiable Credentials W3C.
+Je suis développeur full stack à Porto-Novo. Je travaille beaucoup plus avec Java, Laravel et Python, et je me suis spécialisé dans ce qui touche à la confiance numérique : infrastructures à clés publiques, signatures ECDSA, HSM via PKCS#11, Verifiable Credentials W3C.
 
-Je suis co-fondateur et CTO de **CYPASS**, une plateforme de cybersécurité pour les PME africaines, tech lead chez **HODD Global**, et je développe des produits sous la marque **[TECHNUM](https://bytechnum.com)**. Licence ESGIS en 2025.
+Je suis co-fondateur et CTO de **CYPASS**, une plateforme de cybersécurité pour les PME africaines, tech lead chez **HODD Global**, et je développe des produits sous la marque **[TECHNUM](https://moi.bytechnum.com)**. Titulaire d'une Licence en Systèmes Informatique et Logiciel à l'Ecole Supérieure de Commerce et d'Administration des Entreprises du BRNIN.
 
 En ce moment :
 
-- je construis [uac_map](https://github.com/Magloire04/uac_map), une carte avec guidage piéton pour le campus de l'Université d'Abomey-Calavi ;
 - je participe à MOSIP Decode avec l'équipe BestTeam, autour de l'identité numérique ;
 - je continue à creuser les Verifiable Credentials appliqués aux diplômes et aux certificats d'origine.
 
@@ -44,7 +43,7 @@ Côté sécurité : ECDSA P-384, SoftHSM2 / PKCS#11, QR codes signés, Auth0, co
 | [**where**](https://github.com/Magloire04/where) | Estimation des chances de bourse et aide à l'orientation pour les bacheliers béninois, sur 224 filières publiques | Spring Boot, React 19 |
 | [**Dis_oui**](https://github.com/Magloire04/Dis_oui) | Invitation à un rendez-vous sous forme de mini-jeu, avec export du rendez-vous en fichier .ics | React 19, tRPC, Express, MySQL |
 
-J'ai aussi livré des projets clients dans des dépôts privés : le site de HODD Global, la refonte du site de BESCAT Côte d'Ivoire, une plateforme de promotion artistique pour CAFAB et un traitement automatisé de paiements basé sur Mojaloop (e-pensionbj).
+J'ai aussi livré des projets clients dans des dépôts privés : le site de HODD Global, la refonte du site de BESCAT Côte d'Ivoire, une plateforme de gestion pour CAFAB et un traitement automatisé de paiements basé sur Mojaloop (e-pensionbj).
 
 ## Activité
 
