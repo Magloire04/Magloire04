@@ -1,70 +1,67 @@
-<h1 align="center">👋 Salut, je suis Magloire</h1>h1>
-<h3 align="center">Développeur Full Stack · PHP | TypeScript | Python · Bénin 🇧🇯</h3>h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:2846B9,100:405FE0&text=Elis%C3%A9e%20Magloire%20ATONDE&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=D%C3%A9veloppeur%20Full%20Stack%20%C2%B7%20Porto-Novo%2C%20B%C3%A9nin&descSize=17&descAlignY=58&animation=fadeIn" alt="Elisée Magloire ATONDE, développeur full stack" width="100%" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=405FE0&center=true&vCenter=true&width=620&height=44&lines=Laravel%2C%20PHP%20et%20Nuxt%203%20au%20quotidien;PKI%2C%20signatures%20ECDSA%20et%20Verifiable%20Credentials;Identit%C3%A9%20num%C3%A9rique%20et%20infrastructures%20publiques%20%28DPI%29;Des%20outils%20pens%C3%A9s%20pour%20le%20B%C3%A9nin" alt="Laravel, PHP, Nuxt 3, PKI, Verifiable Credentials, identité numérique" />
+</p>
 
-## 🧑‍💻 À propos de moi
+<p align="center">
+  <a href="https://bytechnum.com"><img src="https://img.shields.io/badge/bytechnum.com-405FE0?style=flat-square&logo=googlechrome&logoColor=white" alt="Site TECHNUM" /></a>
+  <a href="mailto:elisee.atonde@bytechnum.com"><img src="https://img.shields.io/badge/Email_pro-elisee.atonde%40bytechnum.com-2846B9?style=flat-square&logo=maildotru&logoColor=white" alt="Email pro : elisee.atonde@bytechnum.com" /></a>
+  <a href="mailto:eliseeatonde@gmail.com"><img src="https://img.shields.io/badge/Email_perso-eliseeatonde%40gmail.com-373536?style=flat-square&logo=gmail&logoColor=white" alt="Email perso : eliseeatonde@gmail.com" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Magloire04&style=flat-square&color=405FE0&label=visites" alt="Visites du profil" />
+</p>
 
-Développeur Full Stack passionné basé au Bénin, avec une expertise en développement web et en systèmes d'information. Je conçois et développe des applications robustes pour des clients institutionnels et des entreprises privées en Afrique de l'Ouest.
+## À propos
 
-- 🔭 Actuellement en train de travailler sur des solutions **d'identité numérique décentralisée** (MOSIP/Inji)
-- - 🌱 J'approfondis mes connaissances en **Next.js**, **architecture microservices** et **fintech**
-  - - 💼 J'ai développé des plateformes pour des clients comme **BESCAT**, **HODD GLOBAL**, **CAFAB** et le **CDPI**
-    - - 🎓 Passionné par les technologies qui transforment l'Afrique
-      - - 📫 Me contacter : **magloire04@github**
-       
-        - <br/>
+Je suis développeur full stack à Porto-Novo. Je travaille surtout avec Laravel et Nuxt 3, et je me suis spécialisé dans ce qui touche à la confiance numérique : infrastructures à clés publiques, signatures ECDSA, HSM via PKCS#11, Verifiable Credentials W3C.
 
-        ## 🛠️ Stack technique
+Je suis co-fondateur et CTO de **CYPASS**, une plateforme de cybersécurité pour les PME africaines, tech lead chez **HODD Global**, et je développe des produits sous la marque **[TECHNUM](https://bytechnum.com)**. Licence ESGIS en 2025.
 
-        **Langages**
+En ce moment :
 
-        ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-        ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-        ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-        ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-        ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- je construis [uac_map](https://github.com/Magloire04/uac_map), une carte avec guidage piéton pour le campus de l'Université d'Abomey-Calavi ;
+- je participe à MOSIP Decode avec l'équipe BestTeam, autour de l'identité numérique ;
+- je continue à creuser les Verifiable Credentials appliqués aux diplômes et aux certificats d'origine.
 
-        **Frameworks & Librairies**
+## Stack
 
-        ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-        ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-        ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-        ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nuxtjs,vue,ts,js,react,nextjs,nodejs,express,java,spring,python,mysql,postgres,nginx,linux,git,tailwind&perline=10" alt="PHP, Laravel, Nuxt, Vue, TypeScript, JavaScript, React, Next.js, Node.js, Express, Java, Spring, Python, MySQL, PostgreSQL, Nginx, Linux, Git, Tailwind" />
+</p>
 
-        **Bases de données & Outils**
+Côté sécurité : ECDSA P-384, SoftHSM2 / PKCS#11, QR codes signés, Auth0, conformité APDP (loi n°2017-20), contrats d'API OpenAPI.
 
-        ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-        ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-        ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-        ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+## Projets
 
-        <br/>
+| Projet | Ce que ça fait | Stack |
+| --- | --- | --- |
+| [**TracaCajou**](https://github.com/Magloire04/TracaCajou) | Certificats d'origine numériques pour la filière anacarde : signature ECDSA P-384, vérification par QR code | Laravel 12, PHP 8.2 |
+| [**cpdi-inji-poc**](https://github.com/Magloire04/cpdi-inji-poc) | Preuve de concept pour le CDPI : identité numérique décentralisée avec la suite MOSIP Inji | Next.js, TypeScript |
+| [**uac_map**](https://github.com/Magloire04/uac_map) | Recherche de lieux et itinéraire à pied sur le campus de l'UAC. L'itinéraire est calculé sur le téléphone, la position ne quitte pas l'appareil, et l'appli marche hors ligne | Node.js, Express, MapLibre, MariaDB |
+| [**oeil-360-finance**](https://github.com/Magloire04/oeil-360-finance) | Gestion des finances personnelles en franc CFA, multi-utilisateurs, installable en PWA | Laravel 13, PHP 8.4, Auth0 |
+| [**where**](https://github.com/Magloire04/where) | Estimation des chances de bourse et aide à l'orientation pour les bacheliers béninois, sur 224 filières publiques | Spring Boot, React 19 |
+| [**Dis_oui**](https://github.com/Magloire04/Dis_oui) | Invitation à un rendez-vous sous forme de mini-jeu, avec export du rendez-vous en fichier .ics | React 19, tRPC, Express, MySQL |
 
-        ## 🚀 Projets phares
+J'ai aussi livré des projets clients dans des dépôts privés : le site de HODD Global, la refonte du site de BESCAT Côte d'Ivoire, une plateforme de promotion artistique pour CAFAB et un traitement automatisé de paiements basé sur Mojaloop (e-pensionbj).
 
-        | Projet | Description | Stack | Lien |
-        |--------|-------------|-------|------|
-        | 🪪 **cpdi-inji-poc** | PoC d'identité numérique décentralisée basé sur MOSIP Inji pour le CDPI | Next.js, TypeScript | [Demo](https://cpdi-inji-poc.vercel.app) |
-        | 💼 **portfolio-moderne** | Portfolio professionnel moderne avec backend PHP | HTML, CSS, Bootstrap, PHP | [Repo](https://github.com/Magloire04/portfolio-moderne) |
-        | 🤝 **collab-platform** | Plateforme collaborative de gestion de projet en communauté | Python, Django | [Repo](https://github.com/Magloire04/collab-platform) |
-        | 🏥 **bescat** | Refonte du site web professionnel de BESCAT Côte d'Ivoire | PHP, MySQL | Privé |
-        | 🎭 **cafab** | Plateforme de promotion artistique avec CMS pour spectacles et membres | PHP, MySQL | Privé |
-        | 💰 **e-pensionbj** | Système de traitement automatisé des paiements via Mojaloop | PHP | Privé |
+## Activité
 
-        <br/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Magloire04&locale=fr&hide_border=true&background=FFFFFF00&ring=6F8BFF&fire=6F8BFF&currStreakLabel=6F8BFF&sideLabels=E6E6E6&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A0A0A0&stroke=30363D" />
+    <img src="https://streak-stats.demolab.com?user=Magloire04&locale=fr&hide_border=true&background=FFFFFF00&ring=405FE0&fire=405FE0&currStreakLabel=405FE0&sideLabels=373536&currStreakNum=373536&sideNums=373536&dates=6B6B6B&stroke=E9EDFF" alt="Série de contributions GitHub" />
+  </picture>
+</p>
 
-        ## 📊 Statistiques GitHub
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Magloire04/Magloire04/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Magloire04/Magloire04/output/snake.svg" alt="Animation du graphe de contributions" />
+  </picture>
+</p>
 
-        <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=Magloire04&show_icons=true&theme=dark&hide_border=true" alt="Stats GitHub" />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magloire04&layout=compact&theme=dark&hide_border=true" alt="Langages" />
-        </p>p>
-
-        <br/>
-
-        ---
-        <p align="center">
-          <i>« Construire des solutions technologiques pour l'Afrique de demain »</i>i>
-        </p>p></i>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:405FE0,100:2846B9&section=footer" alt="" width="100%" />
+</p>
