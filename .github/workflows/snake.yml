@@ -1,0 +1,33 @@
+name: Animation des contributions
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Générer les SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#405FE0&color_dots=#ebedf0,#c7d2fe,#8ea2f5,#5a78e8,#2846b9
+            dist/snake-dark.svg?palette=github-dark&color_snake=#6F8BFF
+
+      - name: Publier sur la branche output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: mise à jour de l'animation des contributions"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
