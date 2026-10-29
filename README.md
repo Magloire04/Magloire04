@@ -27,23 +27,31 @@ En ce moment :
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nuxtjs,vue,ts,js,react,nextjs,nodejs,express,java,spring,python,mysql,postgres,nginx,linux,git,tailwind&perline=10" alt="PHP, Laravel, Nuxt, Vue, TypeScript, JavaScript, React, Next.js, Node.js, Express, Java, Spring, Python, MySQL, PostgreSQL, Nginx, Linux, Git, Tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nuxtjs,vue,ts,js,react,nextjs,nodejs,express,java,spring,kotlin,python,mysql,postgres,nginx,linux,git,tailwind&perline=10" alt="PHP, Laravel, Nuxt, Vue, TypeScript, JavaScript, React, Next.js, Node.js, Express, Java, Spring, Kotlin, Python, MySQL, PostgreSQL, Nginx, Linux, Git, Tailwind" />
 </p>
 
 Côté sécurité : ECDSA P-384, SoftHSM2 / PKCS#11, QR codes signés, Auth0, conformité APDP (loi n°2017-20), contrats d'API OpenAPI.
 
-## Projets
+## Projets en ligne
 
-| Projet | Ce que ça fait | Stack |
-| --- | --- | --- |
-| [**TracaCajou**](https://github.com/Magloire04/TracaCajou) | Certificats d'origine numériques pour la filière anacarde : signature ECDSA P-384, vérification par QR code | Laravel 12, PHP 8.2 |
-| [**cpdi-inji-poc**](https://github.com/Magloire04/cpdi-inji-poc) | Preuve de concept pour le CDPI : identité numérique décentralisée avec la suite MOSIP Inji | Next.js, TypeScript |
-| [**uac_map**](https://github.com/Magloire04/uac_map) | Recherche de lieux et itinéraire à pied sur le campus de l'UAC. L'itinéraire est calculé sur le téléphone, la position ne quitte pas l'appareil, et l'appli marche hors ligne | Node.js, Express, MapLibre, MariaDB |
-| [**oeil-360-finance**](https://github.com/Magloire04/oeil-360-finance) | Gestion des finances personnelles en franc CFA, multi-utilisateurs, installable en PWA | Laravel 13, PHP 8.4, Auth0 |
-| [**where**](https://github.com/Magloire04/where) | Estimation des chances de bourse et aide à l'orientation pour les bacheliers béninois, sur 224 filières publiques | Spring Boot, React 19 |
-| [**Dis_oui**](https://github.com/Magloire04/Dis_oui) | Invitation à un rendez-vous sous forme de mini-jeu, avec export du rendez-vous en fichier .ics | React 19, tRPC, Express, MySQL |
+| Projet | Ce que ça fait | Stack | En ligne |
+| --- | --- | --- | --- |
+| [**uac_map**](https://github.com/Magloire04/uac_map) | Recherche de lieux et itinéraire à pied sur le campus de l'UAC. L'itinéraire est calculé sur le téléphone, la position ne quitte pas l'appareil, et l'appli marche hors ligne | Node.js, Express, MapLibre, MariaDB | [uacmap.bytechnum.com](https://uacmap.bytechnum.com) |
+| [**oeil-360-finance**](https://github.com/Magloire04/oeil-360-finance) | Gestion des finances personnelles en franc CFA, multi-utilisateurs, installable en PWA, conforme à la loi APDP | Laravel 13, PHP 8.4, Auth0 | [oeil360finance.bytechnum.com](https://oeil360finance.bytechnum.com) |
+| [**cpdi-inji-poc**](https://github.com/Magloire04/cpdi-inji-poc) | Preuve de concept pour le CDPI : identité numérique décentralisée avec la suite MOSIP Inji (émission, wallet et vérification de Verifiable Credentials) | Next.js, TypeScript | [cpdi-inji-poc.vercel.app](https://cpdi-inji-poc.vercel.app) |
+| [**demo_agriculture**](https://github.com/Magloire04/demo_agriculture) (AgriFon) | Demander le prix d'un produit agricole ou signaler une maladie des cultures en parlant fongbé, avec reconnaissance vocale | Node.js, PWA | [agrifon.bytechnum.com](https://agrifon.bytechnum.com) |
+| [**Dis_oui**](https://github.com/Magloire04/Dis_oui) | Invitation à un rendez-vous sous forme de mini-jeu, avec export du rendez-vous en fichier .ics | React 19, tRPC, Express, MySQL | [disoui.bytechnum.com](https://disoui.bytechnum.com) |
+| [**moi.portfolio**](https://github.com/Magloire04/moi.portfolio) | Mon portfolio : parcours, projets et contact | Next.js, Laravel | [moi.bytechnum.com](https://moi.bytechnum.com) |
 
-J'ai aussi livré des projets clients dans des dépôts privés : le site de HODD Global, la refonte du site de BESCAT Côte d'Ivoire, une plateforme de gestion pour CAFAB et un traitement automatisé de paiements basé sur Mojaloop (e-pensionbj).
+## Autres projets
+
+| Projet | Ce que ça fait | Stack | État |
+| --- | --- | --- | --- |
+| [**TracaCajou**](https://github.com/Magloire04/TracaCajou) | Certificats d'origine numériques pour la filière anacarde : signature ECDSA P-384, vérification par QR code | Laravel 12, PHP 8.2 | Back-end terminé, front-end en cours |
+| [**where**](https://github.com/Magloire04/where) | Estimation des chances de bourse et aide à l'orientation pour les bacheliers béninois, sur 224 filières publiques | Spring Boot, React 19 | En développement |
+| [**alarme_apk**](https://github.com/Magloire04/alarme_apk) (Réveil Défi) | Réveil Android qui ne s'arrête qu'après un défi physique (sauts, squats…) vérifié par la caméra, sur le téléphone et hors ligne | Kotlin, Android | En développement |
+
+J'ai aussi livré plusieurs projets clients dans des dépôts privés : des sites web, une plateforme de gestion et un traitement automatisé de paiements.
 
 ## Activité
 
