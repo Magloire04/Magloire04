@@ -15,7 +15,7 @@
 
 ## À propos
 
-Je suis développeur full stack. Je travaille beaucoup avec Java, Laravel et Python, et je me suis spécialisé dans ce qui touche à la confiance numérique : infrastructures à clés publiques, signatures ECDSA, HSM via PKCS#11, Verifiable Credentials W3C.
+Je suis développeur full stack. Je travaille avec Java, Laravel et Python, et je me suis spécialisé dans ce qui touche à la confiance numérique : infrastructures à clés publiques, signatures ECDSA, HSM via PKCS#11, Verifiable Credentials W3C.
 
 Je suis co-fondateur et CTO de **CYPASS**, une plateforme de cybersécurité pour les PME africaines, tech lead chez **HODD Global**, et je développe des produits sous la marque **[TECHNUM](https://moi.bytechnum.com)**. Titulaire d'une Licence en Systèmes Informatique et Logiciel à l'Ecole Supérieure de Commerce et d'Administration des Entreprises du BRNIN.
 
