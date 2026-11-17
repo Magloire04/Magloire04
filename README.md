@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=405FE0&center=true&vCenter=true&width=620&height=44&lines=Laravel%2C%20PHP%20et%20Nuxt%203%20au%20quotidien;PKI%2C%20signatures%20ECDSA%20et%20Verifiable%20Credentials;Identit%C3%A9%20num%C3%A9rique%20et%20infrastructures%20publiques%20%28DPI%29;Des%20outils%20pens%C3%A9s%20pour%20le%20B%C3%A9nin" alt="Laravel, PHP, Nuxt 3, PKI, Verifiable Credentials, identité numérique" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=405FE0&center=true&vCenter=true&width=620&height=44&lines=Laravel%2C%20PHP%20et%20Nuxt%203%20au%20quotidien;PKI%2C%20signatures%20ECDSA%20et%20Verifiable%20Credentials;Identit%C3%A9%20num%C3%A9rique%20et%20infrastructures%20publiques%20%28DPI%29;Le%20fongb%C3%A9%20dans%20les%20applications;Des%20outils%20pens%C3%A9s%20pour%20le%20B%C3%A9nin" alt="Laravel, PHP, Nuxt 3, PKI, Verifiable Credentials, identité numérique, fongbé" />
 </p>
 
 <p align="center">
@@ -17,12 +17,13 @@
 
 Je suis développeur full stack. Je travaille avec Java, Laravel et Python, et je me suis spécialisé dans ce qui touche à la confiance numérique : infrastructures à clés publiques, signatures ECDSA, HSM via PKCS#11, Verifiable Credentials W3C.
 
-Je suis co-fondateur et CTO de **CYPASS**, une plateforme de cybersécurité pour les PME africaines, tech lead chez **HODD Global**, et je développe des produits sous la marque **[TECHNUM](https://moi.bytechnum.com)**. Titulaire d'une Licence en Systèmes Informatique et Logiciel à l'Ecole Supérieure de Commerce et d'Administration des Entreprises du BRNIN.
+Je suis co-fondateur et CTO de **CYPASS**, une plateforme de cybersécurité pour les PME africaines, tech lead chez **HODD Global**, et je développe des produits sous la marque **[TECHNUM](https://bytechnum.com)**. Titulaire d'une Licence en Systèmes Informatique et Logiciel à l'Ecole Supérieure de Commerce et d'Administration des Entreprises du BRNIN.
 
 En ce moment :
 
 - je participe à MOSIP Decode avec l'équipe BestTeam, autour de l'identité numérique ;
-- je continue à creuser les Verifiable Credentials appliqués aux diplômes et aux certificats d'origine.
+- je continue à creuser les Verifiable Credentials appliqués aux diplômes et aux certificats d'origine ;
+- j'ouvre aux développeurs une voix de synthèse en fongbé, pour que leurs applications puissent parler fon.
 
 ## Stack
 
@@ -34,14 +35,19 @@ Côté sécurité : ECDSA P-384, SoftHSM2 / PKCS#11, QR codes signés, Auth0, co
 
 ## Projets en ligne
 
-| Projet | Ce que ça fait | Stack | En ligne |
-| --- | --- | --- | --- |
-| [**uac_map**](https://github.com/Magloire04/uac_map) | Recherche de lieux et itinéraire à pied sur le campus de l'UAC. L'itinéraire est calculé sur le téléphone, la position ne quitte pas l'appareil, et l'appli marche hors ligne | Node.js, Express, MapLibre, MariaDB | [uacmap.bytechnum.com](https://uacmap.bytechnum.com) |
-| [**oeil-360-finance**](https://github.com/Magloire04/oeil-360-finance) | Gestion des finances personnelles en franc CFA, multi-utilisateurs, installable en PWA, conforme à la loi APDP | Laravel 13, PHP 8.4, Auth0 | [oeil360finance.bytechnum.com](https://oeil360finance.bytechnum.com) |
-| [**cpdi-inji-poc**](https://github.com/Magloire04/cpdi-inji-poc) | Preuve de concept pour le CDPI : identité numérique décentralisée avec la suite MOSIP Inji (émission, wallet et vérification de Verifiable Credentials) | Next.js, TypeScript | [cpdi-inji-poc.vercel.app](https://cpdi-inji-poc.vercel.app) |
-| [**demo_agriculture**](https://github.com/Magloire04/demo_agriculture) (AgriFon) | Demander le prix d'un produit agricole ou signaler une maladie des cultures en parlant fongbé, avec reconnaissance vocale | Node.js, PWA | [agrifon.bytechnum.com](https://agrifon.bytechnum.com) |
-| [**Dis_oui**](https://github.com/Magloire04/Dis_oui) | Invitation à un rendez-vous sous forme de mini-jeu, avec export du rendez-vous en fichier .ics | React 19, tRPC, Express, MySQL | [disoui.bytechnum.com](https://disoui.bytechnum.com) |
-| [**moi.portfolio**](https://github.com/Magloire04/moi.portfolio) | Mon portfolio : parcours, projets et contact | Next.js, Laravel | [moi.bytechnum.com](https://moi.bytechnum.com) |
+| | Projet | Ce que ça fait | Stack | En ligne |
+| :---: | --- | --- | --- | --- |
+| <img src="assets/icons/streak-sport.svg" width="36" height="36" alt="" /> | **Streak Sport**<br><sub>code privé</sub> | Une séance de sport guidée par jour, sans matériel, à faire chez soi ou ailleurs. Série de jours à tenir et suivi des progrès, installable en PWA | React, TypeScript, Laravel | [streak-sport.bytechnum.com](https://streak-sport.bytechnum.com) |
+| <img src="assets/icons/algobox-mobile.svg" width="36" height="36" alt="" /> | [**AlgoBox Mobile**](https://github.com/Magloire04/algobox-mobile) | Éditeur et testeur d'algorithmes compatible AlgoBox (même langage, mêmes fichiers `.alg`), pour s'entraîner à l'algorithmique sur téléphone. Exécution pas à pas, marche hors ligne | JavaScript, PWA, Playwright | [algobox-mobile.bytechnum.com](https://algobox-mobile.bytechnum.com) |
+| <img src="assets/icons/voix-fon.svg" width="36" height="36" alt="" /> | [**Voix fon**](https://github.com/Magloire04/voixfongbe) | API qui lit un texte écrit en fongbé et renvoie un fichier MP3 ou WAV. Accès par clé, sur demande, pour des projets non commerciaux | Python, ONNX Runtime | [voix.bytechnum.com](https://voix.bytechnum.com/demande) |
+| <img src="assets/icons/provia.svg" width="36" height="36" alt="" /> | **PROVIA**<br><sub>code privé</sub> | Plateforme de stages pour les étudiants béninois : profil, candidature et suivi au même endroit, avec un matching entre profils et offres | PHP 8.4 | [provia.bytechnum.com](https://provia.bytechnum.com) |
+| <img src="assets/icons/uac-map.svg" width="36" height="36" alt="" /> | [**Carte UAC**](https://github.com/Magloire04/uac_map) | Recherche de lieux et itinéraire à pied sur le campus de l'UAC. L'itinéraire est calculé sur le téléphone, la position ne quitte pas l'appareil, et l'appli marche hors ligne | Node.js, Express, MapLibre, MariaDB | [uacmap.bytechnum.com](https://uacmap.bytechnum.com) |
+| <img src="assets/icons/oeil-360-finance.svg" width="36" height="36" alt="" /> | [**Œil 360° Finance**](https://github.com/Magloire04/oeil-360-finance) | Gestion des finances personnelles en franc CFA, multi-utilisateurs, installable en PWA, conforme à la loi APDP | Laravel 13, PHP 8.4, Auth0 | [oeil360finance.bytechnum.com](https://oeil360finance.bytechnum.com) |
+| <img src="assets/icons/agrifon.svg" width="36" height="36" alt="" /> | **AgriFon**<br><sub>code privé</sub> | Demander le prix d'un produit agricole ou signaler une maladie des cultures en parlant fongbé, avec reconnaissance vocale | Node.js, PWA | [agrifon.bytechnum.com](https://agrifon.bytechnum.com) |
+| <img src="assets/icons/cpdi-inji.svg" width="36" height="36" alt="" /> | [**CDPI Inji PoC**](https://github.com/Magloire04/cpdi-inji-poc) | Preuve de concept pour le CDPI : identité numérique décentralisée avec la suite MOSIP Inji (émission, wallet et vérification de Verifiable Credentials) | Next.js, TypeScript | [cpdi-inji-poc.vercel.app](https://cpdi-inji-poc.vercel.app) |
+| <img src="assets/icons/dis-oui.svg" width="36" height="36" alt="" /> | [**Dis oui**](https://github.com/Magloire04/Dis_oui) | Invitation à un rendez-vous sous forme de mini-jeu, avec export du rendez-vous en fichier .ics | React 19, tRPC, Express, MySQL | [disoui.bytechnum.com](https://disoui.bytechnum.com) |
+| <img src="assets/icons/portfolio.svg" width="36" height="36" alt="" /> | [**Portfolio**](https://github.com/Magloire04/moi.portfolio) | Mon portfolio : parcours, projets et contact | Next.js, Laravel | [moi.bytechnum.com](https://moi.bytechnum.com) |
+| <img src="assets/icons/technum.svg" width="36" height="36" alt="" /> | **TECHNUM**<br><sub>code privé</sub> | Le site de ma marque : applications, plateformes et sites web pour les entreprises et les institutions du Bénin | PHP | [bytechnum.com](https://bytechnum.com) |
 
 ## Autres projets
 
