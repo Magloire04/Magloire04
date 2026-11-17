@@ -23,7 +23,6 @@ En ce moment :
 
 - je participe à MOSIP Decode avec l'équipe BestTeam, autour de l'identité numérique ;
 - je continue à creuser les Verifiable Credentials appliqués aux diplômes et aux certificats d'origine ;
-- j'ouvre aux développeurs une voix de synthèse en fongbé, pour que leurs applications puissent parler fon.
 
 ## Stack
 
@@ -53,7 +52,7 @@ Côté sécurité : ECDSA P-384, SoftHSM2 / PKCS#11, QR codes signés, Auth0, co
 | Projet | Ce que ça fait | Stack | État |
 | --- | --- | --- | --- |
 | [**TracaCajou**](https://github.com/Magloire04/TracaCajou) | Certificats d'origine numériques pour la filière anacarde : signature ECDSA P-384, vérification par QR code | Laravel 12, PHP 8.2 | Back-end terminé, front-end en cours |
-| [**where**](https://github.com/Magloire04/where) | Estimation des chances de bourse et aide à l'orientation pour les bacheliers béninois, sur 224 filières publiques | Spring Boot, React 19 | En développement |
+| [**where**](https://github.com/Magloire04/where) | Estimation des chances de bourse et aide à l'orientation pour les bacheliers béninois, sur 224 filières publiques | Spring Boot, React 19 | En Pause |
 | [**alarme_apk**](https://github.com/Magloire04/alarme_apk) (Réveil Défi) | Réveil Android qui ne s'arrête qu'après un défi physique (sauts, squats…) vérifié par la caméra, sur le téléphone et hors ligne | Kotlin, Android | En développement |
 
 J'ai aussi livré plusieurs projets clients dans des dépôts privés : des sites web, une plateforme de gestion et un traitement automatisé de paiements.
